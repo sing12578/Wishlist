@@ -1,0 +1,16 @@
+C:\Users\sing1\source\repos\Wishlist\Wishlist\bin\Debug\Wishlist.exe.config
+C:\Users\sing1\source\repos\Wishlist\Wishlist\bin\Debug\Wishlist.exe
+C:\Users\sing1\source\repos\Wishlist\Wishlist\bin\Debug\Wishlist.pdb
+C:\Users\sing1\source\repos\Wishlist\Wishlist\obj\Debug\Wishlist.csproj.AssemblyReference.cache
+C:\Users\sing1\source\repos\Wishlist\Wishlist\obj\Debug\Wishlist.csproj.SuggestedBindingRedirects.cache
+C:\Users\sing1\source\repos\Wishlist\Wishlist\obj\Debug\MainWindow.g.cs
+C:\Users\sing1\source\repos\Wishlist\Wishlist\obj\Debug\App.g.cs
+C:\Users\sing1\source\repos\Wishlist\Wishlist\obj\Debug\Wishlist_MarkupCompile.cache
+C:\Users\sing1\source\repos\Wishlist\Wishlist\obj\Debug\Wishlist_MarkupCompile.lref
+C:\Users\sing1\source\repos\Wishlist\Wishlist\obj\Debug\MainWindow.baml
+C:\Users\sing1\source\repos\Wishlist\Wishlist\obj\Debug\Wishlist.g.resources
+C:\Users\sing1\source\repos\Wishlist\Wishlist\obj\Debug\Wishlist.Properties.Resources.resources
+C:\Users\sing1\source\repos\Wishlist\Wishlist\obj\Debug\Wishlist.csproj.GenerateResource.cache
+C:\Users\sing1\source\repos\Wishlist\Wishlist\obj\Debug\Wishlist.csproj.CoreCompileInputs.cache
+C:\Users\sing1\source\repos\Wishlist\Wishlist\obj\Debug\Wishlist.exe
+C:\Users\sing1\source\repos\Wishlist\Wishlist\obj\Debug\Wishlist.pdb
